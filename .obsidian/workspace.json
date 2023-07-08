@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "41b246beaada5936",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b03aeeac70a1569",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e607764f06ddea1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识点.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ecbe3379894cc5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f83e8096d9a3cbcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5013154b760a5ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39bd4011cd7e7b94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10d0695d8004154f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "d3ca0b7d6ff57429",
+    "type": "split",
+    "children": [
+      {
+        "id": "d70f9a2f45eeae90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "608f6bfa24e4398d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "知识点.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b6440b5c46c35c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "知识点.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64dc57364cbe8472",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fe45a8ef0785aa63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "知识点.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d5013154b760a5ce",
+  "lastOpenFiles": [
+    "Application layer.md",
+    "computer network and internet.md",
+    "Top-Down.md",
+    "zzztotal_assets/Pasted image 20230428114147.png",
+    "zzztotal_assets/Pasted image 20230428103510.png",
+    "zzztotal_assets/Pasted image 20230428102614.png",
+    "zzztotal_assets/Pasted image 20230429205028.png",
+    "zzztotal_assets/Pasted image 20230429205001.png",
+    "zzztotal_assets/Pasted image 20230429204937.png",
+    "zzztotal_assets/Pasted image 20230429141811.png",
+    "zzztotal_assets/Pasted image 20230428155930.png",
+    "zzztotal_assets/Pasted image 20230428155751.png",
+    "zzztotal_assets/Pasted image 20230428155601.png",
+    "1/zzz",
+    "知识点.md",
+    "zzztotal_assets"
+  ]
+}
