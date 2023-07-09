@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识点.md",
+                "file": "computer network and internet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点.md",
+                "file": "computer network and internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识点.md",
+                "file": "computer network and internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点.md"
+                "file": "computer network and internet.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,11 +145,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d5013154b760a5ce",
+  "active": "e607764f06ddea1b",
   "lastOpenFiles": [
     "Application layer.md",
     "computer network and internet.md",
     "Top-Down.md",
+    "README.md",
+    "知识点.md",
     "zzztotal_assets/Pasted image 20230428114147.png",
     "zzztotal_assets/Pasted image 20230428103510.png",
     "zzztotal_assets/Pasted image 20230428102614.png",
@@ -162,7 +163,6 @@
     "zzztotal_assets/Pasted image 20230428155751.png",
     "zzztotal_assets/Pasted image 20230428155601.png",
     "1/zzz",
-    "知识点.md",
     "zzztotal_assets"
   ]
 }

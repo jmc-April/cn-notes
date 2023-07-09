@@ -1,4 +1,5 @@
 # packer switching
+
 store-and-forward packet switching
 	在转发之前，节点必须收到整个分组
 		有利于共享网络
@@ -22,8 +23,11 @@ Forwarding Tables and Routing Protocols
 
 分组交换网络中的多路复用技术是“统计多路复用”，又叫做异步时分多路复用，**它和时分多路复用类似，不同的信道是按时间片分配的，但统计多路复用的最大不同点是:它的时间片是动态分配大小的，而不是固定相等的长度**，所以统计多路复用是一种**根据用户实际需要动态分配线路资源的时分复用方法。**
 
-
 ![[zzztotal_assets/Pasted image 20230428102614.png]]
+
+
+
+![image-20230709084132767](D:\abooks\cn-notes\zzztotal_assets\image-20230709084132767.png)
 
 
 
