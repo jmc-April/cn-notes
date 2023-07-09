@@ -1,4 +1,3 @@
-
 **目标**
 
 -   网络应用的 **原理**：网络应用协议的概念和实现方面
@@ -54,7 +53,7 @@ persistent  HTTP:
 	as little as one RTT for all the referenced objects
 
 
-![[Pasted image 20230429205028.png]]
+![Pasted image 20230429205028.png](zzztotal_assets/Pasted image 20230429205028.png)
 
 # Socket
 
@@ -107,7 +106,7 @@ while True:
 
 tcp
 
-![[zzztotal_assets/Pasted image 20230429141811.png]]
+![zzztotal_assets/Pasted image 20230429141811.png](zzztotal_assets/Pasted image 20230429141811.png)
 
 ```python
 //client

@@ -20,12 +20,11 @@ queuing delay and packet loss
 
 Forwarding Tables and Routing Protocols
 
-
 分组交换网络中的多路复用技术是“统计多路复用”，又叫做异步时分多路复用，**它和时分多路复用类似，不同的信道是按时间片分配的，但统计多路复用的最大不同点是:它的时间片是动态分配大小的，而不是固定相等的长度**，所以统计多路复用是一种**根据用户实际需要动态分配线路资源的时分复用方法。**
 
-![[zzztotal_assets/Pasted image 20230428102614.png]]
 
 
+![Pasted image 20230428102614.png](zzztotal_assets/Pasted image 20230428102614.png)
 
 
 
@@ -68,25 +67,31 @@ As a packet travels from onenode (host or router) to the subsequent node (host o
 important of these delays are the nodal processing delay(节点处理延迟), queuing delay(排队时延), transmision delay(传输时延), and propagation delay(传播时延)
 All of these delays are fixed, except for the queuingdelays, which are variable.
 
-
 传输时延 : L / R
 传播时延 : D / S
 
 排队时延和丢包
 	流量强度
-	![[zzztotal_assets/Pasted image 20230428114147.png]]
+
+
+
+​	![zztotal_assets/Pasted image 20230428114147.png](zzztotal_assets/Pasted image 20230428114147.png)
 
 
 
 
 
 
-![[zzztotal_assets/Pasted image 20230428153957.png]]
+![zzztotal_assets/Pasted image 20230428153957.png](zzztotal_assets/Pasted image 20230428153957.png)
 
 
 
 # 协议层次
-![[zzztotal_assets/Pasted image 20230428155601.png]]![[zzztotal_assets/Pasted image 20230428155930.png]]
+![zzztotal_assets/Pasted image 20230428155601.png](zzztotal_assets/Pasted image 20230428155601.png)
+
+
+
+![zzztotal_assets/Pasted image 20230428155930.png](zzztotal_assets/Pasted image 20230428155930.png)
 
 应用层：报文(message)
 
