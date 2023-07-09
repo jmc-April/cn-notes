@@ -27,7 +27,7 @@ Forwarding Tables and Routing Protocols
 
 
 
-![image-20230709084132767](D:\abooks\cn-notes\zzztotal_assets\image-20230709084132767.png)
+![image-20230709084132767](https://github.com/jmc-April/cn-notes/blob/cdff56de248d3a9c29d3fba4527e7e1707c1835c/zzztotal_assets/image-20230709084132767.png)
 
 
 
